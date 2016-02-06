@@ -1,7 +1,7 @@
 var path = {
   scss: './styles/**/*.scss',
   jade: './src/**/*.jade',
-  dest: './dest/'
+  dest: './dist/'
 }
 var gulp = require('gulp')
 var plugins = require('gulp-load-plugins')({
