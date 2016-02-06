@@ -4,6 +4,13 @@
 
 to learn css flex box
 
+##### learnings
+- scss
+- jade
+- gulp
+- gulp tasks
+
+
 use this project is a boilerplate for starting scss projects
 ## usage
 ```
