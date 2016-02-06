@@ -4,7 +4,7 @@
   "description": "to learn css flex box",
   "main": "index.js",
   "scripts": {
-    "start": "watch-http-server ./dest",
+    "start": "watch-http-server ./dist",
     "dev": "gulp"
   },
   "author": "shawndsouz@outlook.com",
