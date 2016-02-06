@@ -73,6 +73,8 @@ header, footer {
     input {
       padding: 10px;
 
+      &[type="text"]
+        flex: 1
     }
   }
 }
