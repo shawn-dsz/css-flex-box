@@ -10,8 +10,7 @@ to learn css flex box
 > npm run dev
 ```
 
-Navigate to
-```http://localhost:8080```
+Navigate to ```http://localhost:8080```
 
 
 ## reference
