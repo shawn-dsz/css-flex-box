@@ -1,0 +1,22 @@
+{
+  "name": "css-flex-box",
+  "version": "0.0.1",
+  "description": "to learn css flex box",
+  "main": "index.js",
+  "scripts": {
+    "start": "watch-http-server ./dest",
+    "dev": "gulp"
+  },
+  "author": "shawndsouz@outlook.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-watch": "^4.3.5",
+    "jade": "^1.11.0",
+    "node-sass": "^3.4.2"
+  }
+}
