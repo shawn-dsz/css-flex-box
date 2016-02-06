@@ -54,32 +54,6 @@ header, footer {
   }
 }
 
-
-.example-media {
-
-  .media, .search-group {
-    display: flex;
-    max-width: 600px;
-
-    img {
-      margin-right: 10px;
-
-    }
-
-    .content {
-      flex: 1;
-    }
-
-    input {
-      padding: 10px;
-
-      &[type="text"]
-        flex: 1
-    }
-  }
-}
-
-
 h2 {
   background: #000;
   text-align: center;
